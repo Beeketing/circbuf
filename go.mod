@@ -1,1 +1,1 @@
-module github.com/armon/circbuf
+module github.com/Beeketing/circbuf
